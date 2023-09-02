@@ -19,7 +19,7 @@ if(isset($_POST['but_logout'])){
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <title>𝐮𝐧𝐝𝐞𝐟𝐲 𝐧𝐨𝐧-𝐬𝐤</title>
+    <title>𝐮𝐧𝐝𝐞𝐟𝐲</title>
     <link
         href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700"
         rel="stylesheet">
@@ -881,19 +881,13 @@ if(isset($_POST['but_logout'])){
                                 <span> </span>
                                 <span> </span>
                                 <span> </span>
-                                <h4 class="mb-2">𝐮𝐧𝐝𝐞𝐟𝐲 𝐧𝐨𝐧-𝐬𝐤</strong></h4>
+                                <h4 class="mb-2">𝐮𝐧𝐝𝐞𝐟𝐲 </strong></h4>
 
                                 <textarea rows="16" id="lista" class="form-control text-center form-checker mb-2"
                                     placeholder=""></textarea>
                                 <!-- textarea rows="1" class="form-control text-center"
                                     style="width: 100%; float: left; resize:none; overflow:hidden;" id="sec"
                                     placeholder="SK KEY HERE ( Leave Blank For NONSK ) "></textarea>-->
-                                  <textarea rows="1" class="form-control text-center"
-                                    style="width: 100%; float: right; margin-bottom: 5px; resize:none; overflow:hidden;"
-                                    id="tgm" placeholder="Telegram Id"></textarea>  
-                                <textarea rows="1" class="form-control text-center"
-                                    style="width: 100%; float: right; margin-bottom: 5px; resize:none; overflow:hidden;"
-                                    id="cst" placeholder="CUSTOM AMOUNT"></textarea>
                                 <!-- textarea rows="1" class="form-control text-center"
                                     style="width: 40%; float: right; margin-bottom: 5px; resize:none; overflow:hidden;"
                                     id="tgid" placeholder="PUT TELEGRAM ID"></textarea>
