@@ -286,7 +286,7 @@ if (strpos($result2, "Thank you john!")) {
 } elseif (strpos($result2, "incorrect_cvc")) {
 	echo 'CCN</span>  </span>CC:  ' . $lista . '</span>  <br>Result: Security code is incorrect ✅ </span><br>➤ Gate : Shopify gateway<br>';
 } else {
-	echo 'DEAD</span> CC:  ' . $lista . '</span>  <br> Result: ' . $final . ' ❌ BY @ccChecker_scripts </span><br> ➤ Gate : Shopify gateway<br>';
+	echo 'DEAD</span> CC:  ' . $lista . '</span>  <br> Result: ' . $final . ' ❌  </span><br> ➤ Gate : Shopify gateway<br>';
 }
 curl_close($ch);
 ob_flush();
