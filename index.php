@@ -904,32 +904,8 @@ if(isset($_POST['but_logout'])){
                                     style="margin-bottom: 5px; text-align:center" <option </option>
 
                                     <option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/ccn50usd.php">𝐜𝐜𝐧 𝟓𝟎$</option>
-
-                                    <option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/ccn100usd.php">𝐜𝐜𝐧 $100</option> 
-                                    <option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/eur10ccn.php">Cᴄɴ €10</option> 
-    <option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/eur1ccn.php">𝐜𝐜𝐧 $1.2</option> 
-    <option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/usd1ccn.php">𝐜𝐜𝐧 $2</option>
-    <option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/usd1cvv.php">𝐜vv $1</option> 
-					<option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
-                                        value="gate/ccn3usd.php">𝐜cn $3</option> 
-
-
-                                    <option
                                         style="background:rgba(16, 15, 154, 0.281);color:rgb(25, 208, 1);color:white"
-                                        value="gate/usd10ccn.php">𝐜𝐜𝐧 $10</option> -->
+                                        value="gate/sh.php">shopify (proxyless) by und3fy</option> -->
 
 
                                 </select>
